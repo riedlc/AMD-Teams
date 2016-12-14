@@ -5,7 +5,7 @@ Each file contains a usage example.
 
 ## Please cite
 
-Riedl, C., Woolley, A. (2017). "Teams vs. Crowds: A Field Test of the Relative Contribution of Incentives, Member Ability, and Emergent Collaboration to Crowd-Based Problem Solving Performance," **Academy of Management Discoveries**, in press.
+Riedl, C., Woolley, A. (2017). "Teams vs. Crowds: A Field Test of the Relative Contribution of Incentives, Member Ability, and Emergent Collaboration to Crowd-Based Problem Solving Performance," ***Academy of Management Discoveries***, in press.
 
 ## License
 
